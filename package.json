@@ -1,0 +1,19 @@
+{
+  "name": "filesharingapp",
+  "version": "1.0.0",
+  "description": "This is filsharing app in which we can send files to another user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshnegi13/filesharingapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshnegi13/filesharingapp/issues"
+  },
+  "homepage": "https://github.com/ganeshnegi13/filesharingapp#readme"
+}
